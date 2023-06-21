@@ -17,6 +17,6 @@ El algoritmo que resuelve de manera recursiva el problema tiene una complejidad 
 El segundo algoritmo en el que se implemente programción dinamica tiene una complejidad de O(L), donde L es la longitud del tubo a construir.
 
 ## Presentado por:
-Nicolás Urbano - 2128837
-Cristian Gabriel Alvarado - 2124908
-Juan David Garces - 2043292
+Nicolás Urbano - 2128837 <p>
+Cristian Gabriel Alvarado - 2124908 <p>
+Juan David Garces - 2043292 <p>
