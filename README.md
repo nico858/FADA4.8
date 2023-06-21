@@ -1,1 +1,17 @@
-# FADA4.8
+# Ejercicio 8 Asignación 4
+
+Para resolver este problema se crearon 8 variables:
+- L: Entero correspondiente a la longitud del tubo que se desea contruir.
+- blue_length: Entero correspondiente al tamaño del tubo azul.
+- cost_blue: Entero correspondiento al costo del tubo azul
+- red_length: Entero correspondiente al tamaño del tubo rojo.
+- cost_red: Entero correspondiento al costo del tubo rojo
+- gray_length: Entero correspondiente al tamaño del tubo gris.
+- cost_gray: Entero correspondiento al costo del tubo griss
+- prev_tube: Cadena de carácteres que almacena el tubo que fue agregado antes.
+
+## Complejidad O(n)
+
+El algoritmo que resuelve de manera recursiva el problema tiene una complejidad O($3^L$)
+
+El segundo algoritmo en el que se implemente programción dinamica tiene una complejidad de O(L), donde L es la longitud del tubo a construir.
