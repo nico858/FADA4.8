@@ -1,4 +1,4 @@
-# Ejercicio 8 Asignación 4
+# Parcial Ejercicio 8
 
 Para resolver este problema se crearon 8 variables:
 - L: Entero correspondiente a la longitud del tubo que se desea contruir.
